@@ -15,3 +15,7 @@
 ### Day 1
 
 - https://colab.research.google.com/drive/1OaG_n3LUmFx5IBlllS0IVuIsFRionKAU?usp=sharing
+
+### Day 2
+
+- https://colab.research.google.com/drive/1JAGQTF1baUcMVzt-u0nuDDlQZiPoTHeE?usp=sharing 
