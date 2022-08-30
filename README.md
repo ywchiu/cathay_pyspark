@@ -19,3 +19,7 @@
 ### Day 2
 
 - https://colab.research.google.com/drive/1JAGQTF1baUcMVzt-u0nuDDlQZiPoTHeE?usp=sharing 
+
+### Day 3
+
+- https://colab.research.google.com/drive/1-5wafCpvSJazrd20foYx4qSOmIpuNZ24?usp=sharing
